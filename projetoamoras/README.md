@@ -13,6 +13,8 @@ Um sistema web moderno e elegante para cadastrar roupas e gerenciar estoque, com
 
 ![Sistema Demo](https://img.shields.io/badge/Demo-Funcionando-success?style=for-the-badge)
 
+**🔗 [Ver Demo ao Vivo](https://muamuamed.github.io/sistema-cadastro-roupas/)**
+
 ## 🌟 Funcionalidades
 
 - ✅ **Interface Moderna**: Design responsivo com gradientes e animações
@@ -72,6 +74,20 @@ cd sistema-cadastro-roupas
 
 ### 5️⃣ Teste o Sistema
 Preencha o formulário e veja a mágica acontecer! ✨
+
+## 🌐 Deploy Automático
+
+Este projeto está configurado com **GitHub Pages** para deploy automático:
+
+- ✅ **Deploy automático** a cada push na branch `main`
+- ✅ **GitHub Actions** configurado
+- ✅ **HTTPS** habilitado por padrão
+- ✅ **URL personalizada**: `https://seuusuario.github.io/sistema-cadastro-roupas/`
+
+### Para habilitar no seu fork:
+1. Vá em **Settings** do repositório
+2. **Pages** → **Source**: GitHub Actions
+3. Aguarde o deploy (2-3 minutos)
 
 ## 🎯 Como Usar
 
