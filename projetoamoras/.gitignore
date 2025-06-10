@@ -41,4 +41,7 @@ $RECYCLE.BIN/
 
 # Outros
 *.bak
-*.orig 
+*.orig
+
+# Vercel
+.vercel 
